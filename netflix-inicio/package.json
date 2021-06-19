@@ -1,0 +1,20 @@
+{
+  "name": "netflix_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto Netflix login",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "SASS"
+  ],
+  "author": "Omar Uriel",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-dart-sass": "^1.0.2"
+  }
+}
